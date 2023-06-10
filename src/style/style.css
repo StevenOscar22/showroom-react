@@ -1,0 +1,8 @@
+.App {
+    transition: all 0.5s ease;
+  }
+
+  .nav li.active {
+    transition: all 0.5s ease;
+  }
+  
