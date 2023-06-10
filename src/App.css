@@ -98,7 +98,7 @@ nav ul {
 
 .contact-us button {
   font-family: 'Roboto', sans-serif;
-  position: absolute; 
+  position: absolute;
   right: 1rem;
   top: 70%;
   text-decoration: none;
@@ -160,6 +160,7 @@ nav ul {
   opacity: 0.6;
   transition-duration: 0ms;
 }
+
 .tombolNext span:hover {
   color: #e5e7eb;
 }
@@ -175,9 +176,11 @@ nav ul {
   color: #444;
   opacity: 0.6;
 }
+
 .tombolNext span:active {
   color: #444;
 }
+
 .tombolPrevious span:active {
   color: #444;
 }
@@ -213,7 +216,7 @@ hr {
 
 /* Dropdown Menu */
 .dropdown-menu {
-  background-color: rgba(119, 119, 119, 0.7);
+  background-color: rgba(119, 119, 119, 0.702);
   /* transition: 2s cubic-bezier(0.175, 0.885, 0.32, 1.275); */
   width: 13rem;
   position: absolute;
@@ -240,18 +243,23 @@ hr {
   p {
     font-size: 0.7rem;
   }
+
   h2 {
     font-size: 1rem;
   }
+
   h3 {
     font-size: 0.9rem;
   }
+
   h4 {
     font-size: 0.8rem;
   }
+
   nav {
     display: none;
   }
+
   .chevy-specs {
     font-size: 0.7rem;
   }
@@ -277,12 +285,15 @@ hr {
   p {
     font-size: 1rem;
   }
+
   h2 {
     font-size: 1.3rem;
   }
+
   h3 {
     font-size: 1.2rem;
   }
+
   h4 {
     font-size: 1.1rem;
   }
@@ -290,6 +301,7 @@ hr {
   .chevy-specs, .chevy-powertrain-specs table, td, tr, th {
     font-size: 0.7rem;
   }
+
   .hamburger {
     display: none;
   }
