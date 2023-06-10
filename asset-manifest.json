@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/showroom-react/static/css/main.d9225622.css",
+    "main.js": "/showroom-react/static/js/main.bc3d1cf0.js",
+    "static/js/787.eb6924b5.chunk.js": "/showroom-react/static/js/787.eb6924b5.chunk.js",
+    "index.html": "/showroom-react/index.html",
+    "main.d9225622.css.map": "/showroom-react/static/css/main.d9225622.css.map",
+    "main.bc3d1cf0.js.map": "/showroom-react/static/js/main.bc3d1cf0.js.map",
+    "787.eb6924b5.chunk.js.map": "/showroom-react/static/js/787.eb6924b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9225622.css",
+    "static/js/main.bc3d1cf0.js"
+  ]
+}
